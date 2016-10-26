@@ -14,7 +14,7 @@ __maintainer__ = "Christopher Espy"
 __email__ = "github@konchris.de"
 __status__ = "Development"
 
-from hw import hw
+from supreme_broccoli.hw import hw
 
 def main():
     print(hw())
