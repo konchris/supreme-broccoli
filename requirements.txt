@@ -1,0 +1,5 @@
+coverage==4.2
+py==1.4.31
+pytest==3.0.3
+pytest-cov==2.4.0
+-e git+git@github.com:konchris/supreme_broccoli.git@ced8e3ef7f65b86ecb3c5af063aefddc5654c8b3#egg=supreme_broccoli
