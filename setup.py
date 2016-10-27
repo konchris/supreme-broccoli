@@ -33,10 +33,10 @@ setup(
         '',
         ],
 
-    test_suite='tests.test_supreme_broccoli',
+    test_suite='tests.test_cli_test',
     tests_require=['pytest', 'pytest-cov'],
     entry_points={
-        'console_scripts' : ['cli-test=supreme_broccoli.cli_test:main'],   #
+        'console_scripts' : ['cli-test=supreme_broccoli.cli_test:main'],
         },
     include_package_data=True,
     zip_safe=False,
