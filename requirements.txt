@@ -1,7 +1,6 @@
 alabaster==0.7.9
 Babel==2.3.4
 coverage==4.2
--e hg+ssh://hg@bitbucket.org/anthony_tuininga/cx_freeze@3a7f07f4d31f68d7659612827018e8997c3bbf94#egg=cx_Freeze
 docutils==0.12
 imagesize==0.7.1
 Jinja2==2.8
@@ -15,4 +14,4 @@ pytz==2016.7
 six==1.10.0
 snowballstemmer==1.2.1
 Sphinx==1.4.8
--e git+git@github.com:konchris/supreme_broccoli.git@0af4909a7d8dfaa3f078bc3336f5fb9ababa96d4#egg=supreme_broccoli
+-e git+git@github.com:konchris/supreme_broccoli.git@b7dd767a515e74224d58d62918a50efe533bdc16#egg=supreme_broccoli
